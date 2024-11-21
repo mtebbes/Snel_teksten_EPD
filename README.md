@@ -41,6 +41,58 @@ De snelteksten zijn georganiseerd in de volgende categorieën:
 
 Elke categorie bevat algemene sjablonen die aansluiten bij gangbare zorgprocessen.
 
+ Een duidelijke en consistente naming convention voor de documenten in de Snelteksten Bibliotheek is essentieel voor gebruiksvriendelijkheid en overzicht. Hieronder een voorstel dat zowel logisch als praktisch is voor zorgprofessionals:
+
+Format: [Categorie][Subcategorie][Specifiek Onderwerp].txt
+
+	1.	Categorie: Geeft aan binnen welke grote groep de sneltekst valt (bijv. intake, behandelplan, evaluatie).
+	2.	Subcategorie: Specificeert een deelonderwerp binnen de categorie (bijv. type zorg, setting, of doelgroep).
+	3.	Specifiek Onderwerp: Geeft een korte, duidelijke aanduiding van de specifieke toepassing van de sneltekst.
+
+Voorbeelden
+
+	•	Intake_Algemeen_EersteConsult.txt
+	•	Behandelplan_ChronischeZorg_DiabetesType2.txt
+	•	Voortgang_Psychiatrie_WeekEvaluatie.txt
+	•	Eindrapportage_Revalidatie_Postoperatief.txt
+	•	Overdracht_Verpleging_NachtDienst.txt
+
+Algemene Richtlijnen
+
+	1.	Gebruik Engelse termen als dat gebruikelijk is binnen het EPD of de organisatie (bijv. “Intake” in plaats van “Intakegesprek”).
+	2.	Houd het kort, maar specifiek: Vermijd lange bestandsnamen, maar wees duidelijk genoeg om de inhoud in één oogopslag te herkennen.
+	3.	Gebruik underscores (_) als scheidingsteken: Dit voorkomt problemen bij systemen die geen spaties in bestandsnamen ondersteunen.
+	4.	Vermijd speciale tekens zoals /, # of &, omdat dit fouten kan veroorzaken in bestandsstructuren.
+	5.	Versienummering toevoegen indien nodig: Gebruik aan het einde bij updates een indicatie zoals _v1, _v2, enz.
+Bijvoorbeeld: Behandelplan_ChronischeZorg_DiabetesType2_v2.txt
+
+Structuur van de Bibliotheek
+
+Creëer een mappenstructuur op basis van de categorieën om het navigeren te vergemakkelijken:
+
+Snelteksten/
+│
+├── Intake/
+│   ├── Intake_Algemeen_EersteConsult.txt
+│   ├── Intake_Kinderzorg_Introductie.txt
+│
+├── Behandelplannen/
+│   ├── Behandelplan_ChronischeZorg_DiabetesType2.txt
+│   ├── Behandelplan_AcuteZorg_Longontsteking.txt
+│
+├── Voortgang/
+│   ├── Voortgang_Psychiatrie_WeekEvaluatie.txt
+│   ├── Voortgang_Geriatrie_Maandrapport.txt
+│
+├── Eindrapportages/
+│   └── Eindrapportage_Revalidatie_Postoperatief.txt
+│
+└── Overdrachten/
+    ├── Overdracht_Verpleging_NachtDienst.txt
+    └── Overdracht_Huisarts_Zorgplan.txt
+
+Deze aanpak zorgt ervoor dat zorgprofessionals snel en efficiënt de juiste documenten kunnen vinden en gebruiken.
+
 Feedback en Updates
 
 Heb je suggesties voor verbeteringen of aanvullingen? Of merk je een fout op? Neem contact op met het beheerders team van de bibliotheek. Samen zorgen we ervoor dat deze tool up-to-date en waardevol blijft.
