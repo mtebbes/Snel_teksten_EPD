@@ -70,32 +70,6 @@ Algemene Richtlijnen
 	5.	Versienummering toevoegen indien nodig: Gebruik aan het einde bij updates een indicatie zoals _v1, _v2, enz.
 Bijvoorbeeld: 06_Behandelplan_ChronischeZorg_DiabetesType2_v2.txt
 
-Structuur van de Bibliotheek
-
-Creëer een mappenstructuur op basis van de categorieën om het navigeren te vergemakkelijken:
-
-Snelteksten/
-│
-├── 02_Anamnese/
-│   ├── 02_Anamnese_Algemeen_EersteConsult.txt
-│   ├── 02_Anamnese_Kinderzorg_Introductie.txt
-│
-├── 06_Behandelplannen/
-│   ├── 06_Behandelplan_ChronischeZorg_DiabetesType2.txt
-│   ├── 06_Behandelplan_AcuteZorg_Longontsteking.txt
-│
-├── 07_Evaluatie/
-│   ├── 07_Evaluatie_Psychiatrie_WeekEvaluatie.txt
-│   ├── 07_Evaluatie_Geriatrie_Maandrapport.txt
-│
-├── 08_Eindrapportages/
-│   └── 08_Eindrapportage_Revalidatie_Postoperatief.txt
-│
-└── 09_Overdrachten/
-    ├── 09_Overdracht_Verpleging_NachtDienst.txt
-    └── 09_Overdracht_Huisarts_Zorgplan.txt
-
-Deze aanpak zorgt ervoor dat zorgprofessionals snel en efficiënt de juiste documenten kunnen vinden en gebruiken.
 
 Feedback en Updates
 
