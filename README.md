@@ -5,9 +5,9 @@ Welkom bij de Snelteksten Bibliotheek, een hulpmiddel ontworpen om zorgprofessio
 Doel van de Snelteksten
 
 De snelteksten zijn bedoeld om:
-	•	Tijd te besparen bij het invullen van routinematige documentatie.
-	•	Consistentie te bevorderen in verslaglegging binnen de zorgpraktijk.
-	•	Zorgprofessionals een basisstructuur te bieden die kan worden aangepast aan individuele patiëntbehoeften.
+	1.	Tijd te besparen bij het invullen van routinematige documentatie.
+	2.	Consistentie te bevorderen in verslaglegging binnen de zorgpraktijk.
+	3.	Zorgprofessionals een basisstructuur te bieden die kan worden aangepast aan individuele patiëntbehoeften.
 
 Belangrijke Opmerkingen
 
@@ -32,16 +32,16 @@ Gebruik van de Bibliotheek
 (in ontwikkeling) Categorieën in de Bibliotheek
 
 De snelteksten zijn georganiseerd in de volgende categorieën:
-	•	01. Voorbereiding 
-	•	02. Anamnese
- 	•	03. Lichamelijk Onderzoek
-   	•	04. Diagnostiek
-     	•	05. Beslisregel
-	•	06. Behandelplan
-	•	07. Evaluatie
-	•	08. Eindrapportage
-	•	09. Overdracht
-  	•	10. Brief
+	1.	01. Voorbereiding 
+	2.	02. Anamnese
+ 	3.	03. Lichamelijk Onderzoek
+   	4.	04. Diagnostiek
+     	5.	05. Beslisregel
+	6.	06. Behandelplan
+	7.	07. Evaluatie
+	8.	08. Eindrapportage
+	9.	09. Overdracht
+  	10.	10. Brief
 
 Elke categorie bevat algemene sjablonen die aansluiten bij gangbare zorgprocessen.
 
